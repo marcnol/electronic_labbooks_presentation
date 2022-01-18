@@ -77,8 +77,6 @@ Marcelo Nollmann
 
 # Markdown 
 
-<img src="https://i.imgur.com/z2HUP5r.png" width="500"/>
-
 - Easy to use--> requires very basic programming skills<!-- .element: class="fragment" -->
 - Easy to share:<!-- .element: class="fragment" -->
     -  ownCloud, <!-- .element: class="fragment" -->
